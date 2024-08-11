@@ -1,2 +1,3 @@
-Arquivo de exemplos
-Editando existente
+Arquivo de exemplo
+
+Editando pelo navegador
